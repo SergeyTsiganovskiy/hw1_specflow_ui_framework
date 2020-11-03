@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/hw1_specflow_ui_framework/hw1_specflow_ui_framework/Tests/VerifyMainPageDemo.cs
+/hw1_specflow_ui_framework/hw1_specflow_ui_framework/Pages/LoanApplicationPage.cs

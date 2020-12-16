@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hw1_specflow_ui_framework", "hw1_specflow_ui_framework\hw1_specflow_ui_framework.csproj", "{4123C3AD-B8A7-4A50-BD10-789449E177D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nunit_example", "NUnit_Example_R\nunit_example.csproj", "{CA7EEAFD-5405-48B3-90F4-E97ECB1C241F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid_violations", "solid_violations\solid_violations.csproj", "{6A986813-6F82-4E2D-BBF4-22A15F933549}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4123C3AD-B8A7-4A50-BD10-789449E177D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4123C3AD-B8A7-4A50-BD10-789449E177D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4123C3AD-B8A7-4A50-BD10-789449E177D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7EEAFD-5405-48B3-90F4-E97ECB1C241F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7EEAFD-5405-48B3-90F4-E97ECB1C241F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7EEAFD-5405-48B3-90F4-E97ECB1C241F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7EEAFD-5405-48B3-90F4-E97ECB1C241F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A986813-6F82-4E2D-BBF4-22A15F933549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A986813-6F82-4E2D-BBF4-22A15F933549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A986813-6F82-4E2D-BBF4-22A15F933549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A986813-6F82-4E2D-BBF4-22A15F933549}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
